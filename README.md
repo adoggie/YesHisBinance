@@ -20,4 +20,5 @@ python程序 "klinedata.py" 通过分析网页源码，获取数据记录的 aws
 ### run it !
 
 > python ./kline_sync.py sync_symbol_info 'SPOT' '1m'
+>
 > python ./kline_sync.py sync_symbol_data 'SPOT' '1m'
